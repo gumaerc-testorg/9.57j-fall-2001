@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: These notes provide a comprehensive review of the course content, in
+  order to facilitate studying for both the midterm and final exams.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: e739a178-36b4-c383-00c2-22fde6d86132
 ---
@@ -159,7 +163,7 @@ a) In his early samples, George drops subjects about 40% of the time. Given this
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 PREDICTIONS
 {{< thclose >}}
 
