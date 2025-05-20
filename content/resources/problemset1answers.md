@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on language learning.
-file: /ol-ocw-studio-app/courses/9-57j-language-acquisition-fall-2001/a03203f1f56d2adc9f8543a45a77ed8a_ProblemSet1Answers.pdf
+file: /courses/9-57j-language-acquisition-fall-2001/a03203f1f56d2adc9f8543a45a77ed8a_ProblemSet1Answers.pdf
 file_size: 124188
 file_type: application/pdf
 learning_resource_types:

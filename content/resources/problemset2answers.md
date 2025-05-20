@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on sentence tree structures across languages
-file: /ol-ocw-studio-app/courses/9-57j-language-acquisition-fall-2001/af9b0a69e506644666edbc731563546f_problemset2answers.pdf
+file: /courses/9-57j-language-acquisition-fall-2001/af9b0a69e506644666edbc731563546f_problemset2answers.pdf
 file_size: 31514
 file_type: application/pdf
 learning_resource_types:
