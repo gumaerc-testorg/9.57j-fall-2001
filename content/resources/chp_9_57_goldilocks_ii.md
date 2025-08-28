@@ -2,7 +2,7 @@
 content_type: resource
 description: A sample stimulus item from an experiment testing children's knowledge
   of pronoun reference. (Drawing by Prof. Ken Wexler.)
-file: /courses/9-57j-language-acquisition-fall-2001/4e90f0a5de7e5309bce1f2c1173a3e27_chp_9_57_goldilocks_II.jpg
+file: /ol-ocw-studio-app/courses/9-57j-language-acquisition-fall-2001/4e90f0a5de7e5309bce1f2c1173a3e27_chp_9_57_goldilocks_II.jpg
 file_size: 71815
 file_type: image/jpeg
 image_metadata:
